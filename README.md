@@ -37,10 +37,3 @@ python detect_video.py --weights runs/splice_merge_0313_2024_finetune.pt --sourc
 </details>
 
 
-
-
-<img width="800" src="https://user-images.githubusercontent.com/26833433/90222759-949d8800-ddc1-11ea-9fa1-1c97eed2b963.png">
-
-</details>
-
-
