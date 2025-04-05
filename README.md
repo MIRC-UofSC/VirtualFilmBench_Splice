@@ -27,7 +27,7 @@ pip install -r requirements.txt  # install
 
 
 
-<details>
+<details open>
 <summary>Inference with detect_video.py</summary>
 
 python detect_video.py --weights [weight file] --source [video] --save-txt
