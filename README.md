@@ -37,6 +37,13 @@ e.g.
 ```bash
 python detect_video.py --weights runs/splice_merge_0313_2024_finetune.pt --source ../video_samples/vb_samp146.mov --save-txt
 ```
+e.g.
+```bash
+python yolov5_with_classifier.py --weights ./runs/splice_merge_0313_2024_finetune.pt --source ../f20240213A_101st_Clip.mov --save-txt --classifier-weights "resnet18_binary_best.pth"
+```
+Please leave a comment to request classification model (resnet18_binary_best.pth).
+
+
 </details>
 
 
